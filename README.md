@@ -20,3 +20,5 @@
    export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
    buildozer -v android debug
     
+3. **Запуск**:
+   Зайдите в папку 'bin' И перекиньте apk файл на смартфон и запустите!
